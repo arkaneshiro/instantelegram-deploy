@@ -1,0 +1,6 @@
+[submodule "instantelegram"]
+	path = instantelegram
+	url = https://github.com/smclaughlan/instantelegram.git
+[submodule "instantelegramback"]
+	path = instantelegramback
+	url = https://github.com/smclaughlan/instantelegramback.git
